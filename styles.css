@@ -126,6 +126,16 @@ body {
 }
 
 
+.cursor-example {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+
+    background-color: #375A64;
+}
 
 @media (max-width:600px) {
     .nav {
